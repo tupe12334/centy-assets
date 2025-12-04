@@ -1,6 +1,6 @@
 {
   "name": "@centy-io/assets",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Centy brand assets - logos, icons, and design resources",
   "type": "module",
   "exports": {
